@@ -4,7 +4,7 @@
       "id": "100",
       "categoryId": "f1",
       "name": "BM Development Group",
-      "desc": "Кофейня URBO"
+      "desc": "BM Development Group"
     },
     {
       "id": "101",
@@ -45,8 +45,8 @@
     {
       "id": "107",
       "categoryId": "f1",
-      "name": "One stop Servise «Бір Қадам»",
-      "desc": "Защита права жертв насилия. Псих и юр помощь."
+      "name": "Общественный фонд Human Rights Lawyers",
+      "desc": "Общественный фонд Human Rights Lawyers"
     },
     {
       "id": "108",
@@ -57,14 +57,14 @@
     {
       "id": "109",
       "categoryId": "f1",
-      "name": "ALLIGATOR SCM",
-      "desc": "Верхняя одежда (шубы,пальто)"
+      "name": "РАМАЗАНОВ МҰХАМЕДӘЛИ ИСКАНДЕРҰЛЫ",
+      "desc": "РАМАЗАНОВ МҰХАМЕДӘЛИ ИСКАНДЕРҰЛЫ"
     },
     {
       "id": "110",
       "categoryId": "f1",
-      "name": "TOBE",
-      "desc": "Натяжные потолки"
+      "name": "ОРАЗХАН ҚУАНЫШ АЙҚЫНҰЛЫ",
+      "desc": "ОРАЗХАН ҚУАНЫШ АЙҚЫНҰЛЫ"
     },
     {
       "id": "111",
@@ -159,8 +159,8 @@
     {
       "id": "202",
       "categoryId": "f2",
-      "name": "Арендатор 202",
-      "desc": "Описание описание"
+      "name": "Nova571 ТОО",
+      "desc": "Nova571 ТОО"
     },
     {
       "id": "223",
@@ -219,8 +219,8 @@
     {
       "id": "207",
       "categoryId": "f2",
-      "name": "LIGHTHouse Kazakhstan",
-      "desc": "ТОО «LIGHTHouse Kazakhstan»"
+      "name": "SplashFashion KZ (СплэшФэшн КЗ) ТОО",
+      "desc": "SplashFashion KZ (СплэшФэшн КЗ) ТОО"
     },
     {
       "id": "208",
@@ -243,8 +243,8 @@
     {
       "id": "220",
       "categoryId": "f2",
-      "name": "CART Company",
-      "desc": "Транспорт экспедиторская компания."
+      "name": "Euro Construction 2020 ТОО",
+      "desc": "Euro Construction 2020 ТОО"
     },
     {
       "id": "219",
@@ -261,8 +261,8 @@
     {
       "id": "217",
       "categoryId": "f2",
-      "name": "ABC Compressor",
-      "desc": "ТОО «ABC Compressor»"
+      "name": "LogiKZ ТОО/SANAR CONSULTING ИП",
+      "desc": "LogiKZ ТОО/SANAR CONSULTING ИП"
     },
     {
       "id": "215",
@@ -303,8 +303,8 @@
     {
       "id": "211",
       "categoryId": "f2",
-      "name": "Арендатор 211",
-      "desc": "Описание описание"
+      "name": "Topgalant ТОО",
+      "desc": "Topgalant ТОО"
     },
     {
       "id": "210",
